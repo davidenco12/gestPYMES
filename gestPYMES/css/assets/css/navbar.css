@@ -1,0 +1,40 @@
+header{
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+
+#contenido{
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+.icono{
+    font-size: 150px;
+    text-align:center;
+}
+.boton{
+    float:right;
+    margin-top: 30px;
+}
+.botonRegistro{
+    float:right;
+}
+.titular{
+    text-align: center;
+}
+#intro{
+    background-color: gainsboro;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+footer li{
+    margin-top: 20px;
+}
+footer{
+    padding-bottom: 25px;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.iconosFooter li{
+    font-size: 30px;
+    margin-right: 90px;
+}
